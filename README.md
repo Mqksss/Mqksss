@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**Mqksss/Mqksss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I am Mqksss
+- A Python stacked Developer & Open Source enthusiast.
+- A Cybersecurity Engineering Undergraduate Student. 
+- Currently working on some off side projects based on Hardware.
+- Started working on some Web and App Dev projects.
+- Also mainly FiveM sided Cheese developper :d
+- Flipper Zero Enjoyer.
